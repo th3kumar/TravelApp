@@ -2,7 +2,8 @@
 
 This project is a basic travel app developed using React Native, designed specifically for learning purposes. It aims to provide an educational experience in mobile app development while exploring the capabilities of React Native and integrating various front-end tools.
 
-![Uploading Purple Phone Mockup Fashion Store Promotion Email Header (1).png…]()
+![Purple Phone Mockup Fashion Store Promotion Email Header (1)](https://github.com/th3kumar/TravelApp/assets/72141924/4165337d-5a33-4d24-a9a7-0db8ff41166b)
+
 
 
 
