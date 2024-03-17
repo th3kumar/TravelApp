@@ -2,7 +2,11 @@
 
 This project is a basic travel app developed using React Native, designed specifically for learning purposes. It aims to provide an educational experience in mobile app development while exploring the capabilities of React Native and integrating various front-end tools.
 
-## Features
+<img width="450" alt="Purple Phone Mockup Fashion Store Promotion Email Header" src="https://github.com/th3kumar/TravelApp/assets/72141924/1024bf17-1ec8-49dd-9638-18b2c4f1a392">
+
+
+
+## Technologies
 
 - **Cross-Platform Compatibility:** Built with React Native, ensuring compatibility with both iOS and Android platforms.
 - **JavaScript:** Utilizes JavaScript as the primary programming language for logic implementation.
