@@ -8,12 +8,19 @@ This project is a basic travel app developed using React Native, designed specif
 
 
 
+
+https://github.com/th3kumar/TravelApp/assets/72141924/fbc85560-5d6a-4cf2-a7d0-564455e5bd9b
+
+
 ## Technologies
 
 - **Cross-Platform Compatibility:** Built with React Native, ensuring compatibility with both iOS and Android platforms.
 - **JavaScript:** Utilizes JavaScript as the primary programming language for logic implementation.
 - **Tailwind CSS:** Integrates Tailwind CSS for efficient and responsive UI development.
 - **NativeWind:** Harnesses the power of NativeWind for enhancing the styling and layout of the app.
+
+
+
 
 ## Getting Started
 
